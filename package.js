@@ -2,7 +2,7 @@ Package.describe({
   name: "gwendall:templates-watch",
   summary: "Watch changes of specific template variables",
   git: "https://github.com/gwendall/meteor-templates-watch.git",
-  version: "0.1.0"
+  version: "0.1.1"
 });
 
 Package.onUse(function (api, where) {
